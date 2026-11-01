@@ -15,7 +15,7 @@ While the other versions (dki-os/SignMaker) and its forks do exist, this fork ha
 
 ## Acknowledgements
 
-Forked from [dki-os/SignMaker](https://https://github.com/dki-os/SignMaker).
+Sporked (forked) from [dki-os/SignMaker](https://https://github.com/dki-os/SignMaker).
 Originally created by [Brendon Strowe](https://github.com/BrenStro).
 
 Typefaces sourced from the:
