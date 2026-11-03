@@ -111,7 +111,8 @@ Shield.prototype.bannerTypes = [
 	"Toll",
 	"City",
 	"Conn",
-	"To"
+	"To",
+	"Jewish"
 ];
 Shield.prototype.bannerPositions = ["Above", "Right", "Left"];
 Shield.prototype.types = {
@@ -154,6 +155,7 @@ Shield.prototype.types = {
 	"NJ" : "elp",
 	"NM" : "NM",
 	"NY" : "NY",
+	"NYST (new)" : "NY Thruway Shield",
 	"NC" : "NC",
 	"ND" : "ND",
 	"OH" : "OH",
@@ -178,5 +180,5 @@ Shield.prototype.types = {
 	"WV" : "rec2",
 	"WI" : "WI",
 	"WY" : "WY",
-	"C-" : "C"
+	"CR-" : "C"
 };
