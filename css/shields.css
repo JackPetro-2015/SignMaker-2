@@ -31,6 +31,12 @@
 	top: 0.15em;
 }
 
+.bannerShieldContainer.US2 .routeNumber {
+	color: var(--black);
+	font-family: "Series D";
+	top: 0.4em;
+}
+
 .bannerShieldContainer.C .routeNumber {
 	color: var(--countyYellow);
 	font-size: 1.25em;
